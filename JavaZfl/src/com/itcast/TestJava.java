@@ -6,5 +6,6 @@ public class TestJava {
     }
     public void method(){
         System.out.println("裴小娜");
+        System.out.println("王晶晶");
     }
 }
